@@ -1,0 +1,16 @@
+
+Everest is a next-gen exploitation hub that anyone can enjoy.
+
+Everest is hosted on Github, and created by Th3Tr1ckst3r.
+
+You can find more information on the project page at:
+
+https://www.github.com/Th3Tr1ckst3r/Everest/
+
+From your average scripter, to the exploiters that know exactly 
+what they are doing.
+
+This is designed for anyone that loves playing games, their way.
+
+Modifications are always being made, and at this time Everest
+is still under active development.
